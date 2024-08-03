@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Log files
+*.log
+logs
+log
+
+# Dependency directories
+jspm_packages/
+
+# Environment variables
+.env
+.env.test
+.env.production
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+.project
+.classpath
+.npmrc
+.yarnrc
